@@ -1,0 +1,3137 @@
+[
+  {
+    "country_name": "United States",
+    "imf": {
+      "forecast": "30,338,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "27,360,935",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "25,744,100",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "China",
+    "imf": {
+      "forecast": "19,535,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "17,794,782",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "17,963,170",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Germany",
+    "imf": {
+      "forecast": "4,922,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "4,456,081",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "4,076,923",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Japan",
+    "imf": {
+      "forecast": "4,390,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "4,212,945",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "4,232,173",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "India",
+    "imf": {
+      "forecast": "4,270,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "3,549,919",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "3,465,541",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "United Kingdom",
+    "imf": {
+      "forecast": "3,731,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "3,340,032",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "3,089,072",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "France",
+    "imf": {
+      "forecast": "3,284,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "3,030,904",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "2,775,316",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Italy",
+    "imf": {
+      "forecast": "2,460,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "2,254,851",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "2,046,952",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Canada",
+    "imf": {
+      "forecast": "2,331,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "2,140,086",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "2,137,939",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Brazil",
+    "imf": {
+      "forecast": "2,308,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "2,173,666",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,920,095",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Russia",
+    "imf": {
+      "forecast": "2,197,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "2,021,421",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "2,240,422",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "South Korea",
+    "imf": {
+      "forecast": "1,948,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "1,712,793",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,673,916",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Australia",
+    "imf": {
+      "forecast": "1,882,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "1,723,827",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,776,577",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Spain",
+    "imf": {
+      "forecast": "1,828,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "1,580,695",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,415,874",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Mexico",
+    "imf": {
+      "forecast": "1,818,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "1,788,887",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,463,323",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Indonesia",
+    "imf": {
+      "forecast": "1,493,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "1,371,171",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,319,100",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Turkey",
+    "imf": {
+      "forecast": "1,458,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "1,108,022",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "907,118",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Netherlands",
+    "imf": {
+      "forecast": "1,273,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "1,118,125",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,008,027",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "imf": {
+      "forecast": "1,138,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "1,067,583",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,108,148",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Switzerland",
+    "imf": {
+      "forecast": "1,000,000",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "884,940",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "818,426",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Poland",
+    "imf": {
+      "forecast": "915,451",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "811,229",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "688,125",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Taiwan",
+    "imf": {
+      "forecast": "814,438",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "united_nations": {
+      "forecast": "NA",
+      "year": "NA"
+    }
+  },
+  {
+    "country_name": "Belgium",
+    "imf": {
+      "forecast": "689,364",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "632,217",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "582,643",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Sweden",
+    "imf": {
+      "forecast": "638,780",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "593,268",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "591,188",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Argentina",
+    "imf": {
+      "forecast": "604,201",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "640,591",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "631,133",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Ireland",
+    "imf": {
+      "forecast": "587,225",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "545,629",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "532,415",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "imf": {
+      "forecast": "568,567",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "504,173",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "507,063",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Singapore",
+    "imf": {
+      "forecast": "561,730",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "501,428",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "466,788",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Austria",
+    "imf": {
+      "forecast": "559,218",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "516,034",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "470,302",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Israel",
+    "imf": {
+      "forecast": "550,905",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "509,902",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "525,002",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Thailand",
+    "imf": {
+      "forecast": "545,341",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "514,945",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "495,340",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Philippines",
+    "imf": {
+      "forecast": "507,670",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "437,146",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "404,284",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Vietnam",
+    "imf": {
+      "forecast": "506,600",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "429,717",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "408,802",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Norway",
+    "imf": {
+      "forecast": "503,470",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "485,513",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "579,422",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Malaysia",
+    "imf": {
+      "forecast": "488,700",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "399,649",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "406,305",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Iran",
+    "imf": {
+      "forecast": "478,100",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "401,505",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "398,047",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Bangladesh",
+    "imf": {
+      "forecast": "457,700",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "437,415",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "432,677",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Denmark",
+    "imf": {
+      "forecast": "432,228",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "404,199",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "400,167",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Hong Kong",
+    "imf": {
+      "forecast": "422,057",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "382,055",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "359,838",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Colombia",
+    "imf": {
+      "forecast": "419,331",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "363,540",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "343,939",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "South Africa",
+    "imf": {
+      "forecast": "418,046",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "377,782",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "405,270",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Romania",
+    "imf": {
+      "forecast": "406,202",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "351,003",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "300,690",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Pakistan",
+    "imf": {
+      "forecast": "393,100",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "338,368",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "326,796",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Chile",
+    "imf": {
+      "forecast": "362,240",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "335,533",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "300,686",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Czech Republic",
+    "imf": {
+      "forecast": "360,233",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "330,858",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "290,527",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Egypt",
+    "imf": {
+      "forecast": "345,800",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "395,926",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "409,306",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Finland",
+    "imf": {
+      "forecast": "319,989",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "300,187",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "282,511",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Portugal",
+    "imf": {
+      "forecast": "319,934",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "287,080",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "254,849",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Hungary",
+    "imf": {
+      "forecast": "312,619",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "212,389",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "177,337",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Kazakhstan",
+    "imf": {
+      "forecast": "306,629",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "261,421",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "225,496",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Peru",
+    "imf": {
+      "forecast": "294,898",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "267,603",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "242,631",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Iraq",
+    "imf": {
+      "forecast": "270,874",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "250,843",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "264,182",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Greece",
+    "imf": {
+      "forecast": "265,171",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "238,206",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "217,285",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Algeria",
+    "imf": {
+      "forecast": "264,270",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "239,899",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "191,912",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "New Zealand",
+    "imf": {
+      "forecast": "262,924",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "253,466",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "245,845",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Qatar",
+    "imf": {
+      "forecast": "240,217",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "235,770",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "237,101",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Ethiopia",
+    "imf": {
+      "forecast": "238,910",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "163,698",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "118,971",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Nigeria",
+    "imf": {
+      "forecast": "194,760",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "362,815",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "475,058",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Ukraine",
+    "imf": {
+      "forecast": "189,827",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "178,757",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "160,502",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Morocco",
+    "imf": {
+      "forecast": "168,597",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "141,109",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "130,912",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Kuwait",
+    "imf": {
+      "forecast": "161,950",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "161,772",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "175,363",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Slovakia",
+    "imf": {
+      "forecast": "152,480",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "132,794",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "115,304",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Cuba",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "united_nations": {
+      "forecast": "147,193",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Dominican Republic",
+    "imf": {
+      "forecast": "135,540",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "121,444",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "113,537",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Uzbekistan",
+    "imf": {
+      "forecast": "127,410",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "90,889",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "80,391",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Ecuador",
+    "imf": {
+      "forecast": "125,660",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "118,845",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "115,049",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Puerto Rico",
+    "imf": {
+      "forecast": "122,230",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "117,902",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "113,434",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Guatemala",
+    "imf": {
+      "forecast": "120,960",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "102,050",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "95,003",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Angola",
+    "imf": {
+      "forecast": "118,410",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "84,773",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "113,304",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Kenya",
+    "imf": {
+      "forecast": "116,660",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "107,441",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "113,419",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Bulgaria",
+    "imf": {
+      "forecast": "115,530",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "101,584",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "90,213",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Oman",
+    "imf": {
+      "forecast": "111,310",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "108,192",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "114,666",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Venezuela",
+    "imf": {
+      "forecast": "109,960",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "united_nations": {
+      "forecast": "129,313",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Costa Rica",
+    "imf": {
+      "forecast": "100,670",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "86,498",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "68,380",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Luxembourg",
+    "imf": {
+      "forecast": "96,990",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "85,755",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "81,530",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Croatia",
+    "imf": {
+      "forecast": "96,030",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "82,689",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "71,552",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Panama",
+    "imf": {
+      "forecast": "91,739",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "83,382",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "76,522",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Ivory Coast",
+    "imf": {
+      "forecast": "86,993",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "78,789",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "70,018",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Sri Lanka",
+    "imf": {
+      "forecast": "74,846",
+      "year": "2022"
+    },
+    "world_bank": {
+      "forecast": "84,357",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "76,187",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Turkmenistan",
+    "imf": {
+      "forecast": "83,883",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "59,887",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "67,009",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Lithuania",
+    "imf": {
+      "forecast": "82,789",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "77,836",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "70,878",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Uruguay",
+    "imf": {
+      "forecast": "82,605",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "77,241",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "71,171",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Serbia",
+    "imf": {
+      "forecast": "82,550",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "75,187",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "63,563",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Tanzania",
+    "imf": {
+      "forecast": "79,867",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "79,158",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "73,535",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Azerbaijan",
+    "imf": {
+      "forecast": "75,649",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "72,356",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "78,721",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Ghana",
+    "imf": {
+      "forecast": "75,307",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "76,370",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "73,766",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Slovenia",
+    "imf": {
+      "forecast": "73,198",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "68,217",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "59,981",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Belarus",
+    "imf": {
+      "forecast": "73,129",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "71,857",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "72,873",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "DR Congo",
+    "imf": {
+      "forecast": "72,483",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "66,383",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "62,551",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Myanmar",
+    "imf": {
+      "forecast": "64,284",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "64,815",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "65,211",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Uganda",
+    "imf": {
+      "forecast": "55,587",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "49,273",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "48,243",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Macau",
+    "imf": {
+      "forecast": "55,447",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "47,062",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "24,042",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Cameroon",
+    "imf": {
+      "forecast": "53,391",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "47,946",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "44,341",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Jordan",
+    "imf": {
+      "forecast": "53,305",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "50,814",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "47,452",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Tunisia",
+    "imf": {
+      "forecast": "52,636",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "48,530",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "46,181",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Cambodia",
+    "imf": {
+      "forecast": "51,159",
+      "year": "2025"
+    },
+    "world_bank": {
+      "forecast": "31,773",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "29,504",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Bolivia",
+    "imf": {
+      "forecast": "48,172",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "45,850",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "44,008",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Bahrain",
+    "imf": {
+      "forecast": "47,812",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "43,205",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "44,382",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Latvia",
+    "imf": {
+      "forecast": "45,521",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "43,627",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "40,876",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Paraguay",
+    "imf": {
+      "forecast": "44,937",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "42,956",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "41,722",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Libya",
+    "imf": {
+      "forecast": "44,812",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "50,492",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "40,537",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Nepal",
+    "imf": {
+      "forecast": "43,673",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "40,908",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "39,406",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Estonia",
+    "imf": {
+      "forecast": "43,044",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "40,745",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "38,049",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Honduras",
+    "imf": {
+      "forecast": "36,735",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "34,401",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "31,717",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Zimbabwe",
+    "imf": {
+      "forecast": "35,919",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "26,538",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "26,418",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "El Salvador",
+    "imf": {
+      "forecast": "35,848",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "34,016",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "32,488",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Cyprus",
+    "imf": {
+      "forecast": "34,790",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "32,230",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "29,210",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Senegal",
+    "imf": {
+      "forecast": "33,685",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "31,014",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "27,775",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Georgia",
+    "imf": {
+      "forecast": "33,191",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "30,536",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "24,605",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Iceland",
+    "imf": {
+      "forecast": "32,919",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "31,020",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "28,064",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "imf": {
+      "forecast": "31,716",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "30,933",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "31,609",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Sudan",
+    "imf": {
+      "forecast": "30,873",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "109,327",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "36,729",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Zambia",
+    "imf": {
+      "forecast": "29,872",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "28,163",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "29,136",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "imf": {
+      "forecast": "29,078",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "27,055",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "24,473",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "imf": {
+      "forecast": "28,365",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "28,140",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "30,053",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Guinea",
+    "imf": {
+      "forecast": "25,447",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "23,612",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "20,846",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Albania",
+    "imf": {
+      "forecast": "25,431",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "22,978",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "18,916",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Armenia",
+    "imf": {
+      "forecast": "25,408",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "24,212",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "19,513",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Haiti",
+    "imf": {
+      "forecast": "24,046",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "19,851",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "18,751",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Mozambique",
+    "imf": {
+      "forecast": "22,975",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "20,625",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "18,406",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Malta",
+    "imf": {
+      "forecast": "22,737",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "20,957",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "18,100",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Mongolia",
+    "imf": {
+      "forecast": "21,943",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "19,872",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "17,146",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Burkina Faso",
+    "imf": {
+      "forecast": "21,902",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "20,325",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "19,176",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Lebanon",
+    "imf": {
+      "forecast": "21,780",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "17,937",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "39,303",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Mali",
+    "imf": {
+      "forecast": "21,662",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "20,905",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "18,827",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Botswana",
+    "imf": {
+      "forecast": "21,418",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "19,396",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "20,352",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Benin",
+    "imf": {
+      "forecast": "21,371",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "19,673",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "17,396",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Guyana",
+    "imf": {
+      "forecast": "21,178",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "16,786",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "14,718",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Gabon",
+    "imf": {
+      "forecast": "21,013",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "20,516",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "20,132",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Jamaica",
+    "imf": {
+      "forecast": "20,098",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "19,423",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "17,097",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Nicaragua",
+    "imf": {
+      "forecast": "18,829",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "17,829",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "15,671",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Niger",
+    "imf": {
+      "forecast": "18,816",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "16,819",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "15,414",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Chad",
+    "imf": {
+      "forecast": "18,697",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "13,149",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "16,799",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Palestine",
+    "imf": {
+      "forecast": "18,602",
+      "year": "2023"
+    },
+    "world_bank": {
+      "forecast": "17,396",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "19,111",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Syria",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "8,980",
+      "year": "2021"
+    },
+    "united_nations": {
+      "forecast": "18,595",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Moldova",
+    "imf": {
+      "forecast": "18,356",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "16,539",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "14,510",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Yemen",
+    "imf": {
+      "forecast": "16,940",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "united_nations": {
+      "forecast": "11,007",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Madagascar",
+    "imf": {
+      "forecast": "16,465",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "16,032",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "14,954",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Mauritius",
+    "imf": {
+      "forecast": "16,359",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "14,397",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "12,898",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Brunei",
+    "imf": {
+      "forecast": "15,988",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "15,128",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "16,681",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "North Macedonia",
+    "imf": {
+      "forecast": "15,873",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "14,761",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "13,711",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "imf": {
+      "forecast": "15,770",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "13,782",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "12,560",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Congo",
+    "imf": {
+      "forecast": "15,501",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "15,321",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "15,344",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Laos",
+    "imf": {
+      "forecast": "15,190",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "15,843",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "15,362",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "North Korea",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "united_nations": {
+      "forecast": "15,176",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Afghanistan",
+    "imf": {
+      "forecast": "14,467",
+      "year": "2022"
+    },
+    "world_bank": {
+      "forecast": "14,502",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "14,174",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Bahamas",
+    "imf": {
+      "forecast": "14,390",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "14,339",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "12,897",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Rwanda",
+    "imf": {
+      "forecast": "13,701",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "14,098",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "13,312",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Tajikistan",
+    "imf": {
+      "forecast": "13,000",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "12,061",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "10,492",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Somalia",
+    "imf": {
+      "forecast": "12,804",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "11,680",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "10,420",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Namibia",
+    "imf": {
+      "forecast": "12,765",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "12,351",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "12,607",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Kosovo",
+    "imf": {
+      "forecast": "11,318",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "10,438",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "9,397",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Malawi",
+    "imf": {
+      "forecast": "11,241",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "14,084",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "12,558",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "imf": {
+      "forecast": "10,708",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "12,117",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "11,767",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Mauritania",
+    "imf": {
+      "forecast": "10,628",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "10,453",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "10,997",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Togo",
+    "imf": {
+      "forecast": "9,832",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "9,171",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "8,087",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "New Caledonia",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "9,623",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "9,623",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Monaco",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "8,784",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "8,772",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Montenegro",
+    "imf": {
+      "forecast": "8,010",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "7,405",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "6,229",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Bermuda",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "7,828",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "7,546",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Liechtenstein",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "7,365",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "7,757",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Maldives",
+    "imf": {
+      "forecast": "7,199",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "6,600",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "6,170",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Barbados",
+    "imf": {
+      "forecast": "6,863",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "6,394",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "5,699",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Cayman Islands",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "6,601",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "6,281",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "South Sudan",
+    "imf": {
+      "forecast": "6,517",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "united_nations": {
+      "forecast": "4,616",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "French Polynesia",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "5,815",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "5,814",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Fiji",
+    "imf": {
+      "forecast": "5,801",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "5,495",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "4,979",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Eswatini",
+    "imf": {
+      "forecast": "5,085",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "4,598",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "4,326",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Liberia",
+    "imf": {
+      "forecast": "4,754",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "4,332",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "3,265",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Sierra Leone",
+    "imf": {
+      "forecast": "4,558",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "3,810",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "3,481",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Djibouti",
+    "imf": {
+      "forecast": "4,364",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "4,099",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "4,003",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Suriname",
+    "imf": {
+      "forecast": "4,337",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "3,782",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "3,620",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Aruba",
+    "imf": {
+      "forecast": "4,069",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "3,545",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "3,544",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Andorra",
+    "imf": {
+      "forecast": "3,897",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "3,728",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "3,376",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Belize",
+    "imf": {
+      "forecast": "3,296",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "3,282",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "2,830",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Bhutan",
+    "imf": {
+      "forecast": "3,110",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "2,898",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "2,898",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Burundi",
+    "imf": {
+      "forecast": "3,075",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "2,642",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "4,032",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Cura\u00e7ao",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "3,074",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "3,075",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Greenland",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "3,236",
+      "year": "2021"
+    },
+    "united_nations": {
+      "forecast": "2,926",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Central African Republic",
+    "imf": {
+      "forecast": "2,810",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "2,555",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "2,395",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Cape Verde",
+    "imf": {
+      "forecast": "2,718",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "2,587",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "2,314",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Gambia",
+    "imf": {
+      "forecast": "2,694",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "2,340",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "2,231",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Saint Lucia",
+    "imf": {
+      "forecast": "2,582",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "2,520",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "2,165",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Lesotho",
+    "imf": {
+      "forecast": "2,395",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "2,046",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "2,287",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Eritrea",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "united_nations": {
+      "forecast": "2,383",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Zanzibar",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "united_nations": {
+      "forecast": "2,361",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Seychelles",
+    "imf": {
+      "forecast": "2,203",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "2,141",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,994",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "imf": {
+      "forecast": "2,151",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "1,966",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,574",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Antigua and Barbuda",
+    "imf": {
+      "forecast": "2,127",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "2,033",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,770",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "San Marino",
+    "imf": {
+      "forecast": "2,033",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "1,855",
+      "year": "2021"
+    },
+    "united_nations": {
+      "forecast": "1,780",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Timor-Leste",
+    "imf": {
+      "forecast": "1,992",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "2,243",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "3,204",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Solomon Islands",
+    "imf": {
+      "forecast": "1,707",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "1,631",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,597",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Sint Maarten",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "1,623",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,572",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Comoros",
+    "imf": {
+      "forecast": "1,422",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "1,352",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,246",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Grenada",
+    "imf": {
+      "forecast": "1,406",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "1,320",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,192",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Turks and Caicos Islands",
+    "imf": {
+      "forecast": "NA",
+      "year": "NA"
+    },
+    "world_bank": {
+      "forecast": "1,402",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "1,138",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Vanuatu",
+    "imf": {
+      "forecast": "1,289",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "1,126",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "985",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Saint Kitts and Nevis",
+    "imf": {
+      "forecast": "1,134",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "1,077",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "979",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Saint Vincent and the Grenadines",
+    "imf": {
+      "forecast": "1,128",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "1,066",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "946",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Samoa",
+    "imf": {
+      "forecast": "1,024",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "934",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "857",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "imf": {
+      "forecast": "751",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "603",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "546",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Dominica",
+    "imf": {
+      "forecast": "708",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "654",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "612",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Tonga",
+    "imf": {
+      "forecast": "581",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "500",
+      "year": "2022"
+    },
+    "united_nations": {
+      "forecast": "488",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Micronesia",
+    "imf": {
+      "forecast": "484",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "460",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "427",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Kiribati",
+    "imf": {
+      "forecast": "311",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "279",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "223",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Palau",
+    "imf": {
+      "forecast": "308",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "263",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "225",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Marshall Islands",
+    "imf": {
+      "forecast": "305",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "284",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "279",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Nauru",
+    "imf": {
+      "forecast": "161",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "154",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "147",
+      "year": "2022"
+    }
+  },
+  {
+    "country_name": "Tuvalu",
+    "imf": {
+      "forecast": "66",
+      "year": "2024"
+    },
+    "world_bank": {
+      "forecast": "62",
+      "year": "2023"
+    },
+    "united_nations": {
+      "forecast": "59",
+      "year": "2022"
+    }
+  }
+]
