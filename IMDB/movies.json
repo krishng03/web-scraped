@@ -1,0 +1,433 @@
+[
+  {
+    "movie_name": "The Shawshank Redemption",
+    "movie_release_year": "1994",
+    "movie_duration": "2h 22m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "9.3",
+    "movie_imdb_vote_count": "3M",
+    "movie_tags": [
+      "Epic",
+      "Period Drama",
+      "Prison Drama",
+      "Drama"
+    ]
+  },
+  {
+    "movie_name": "The Godfather",
+    "movie_release_year": "1972",
+    "movie_duration": "2h 55m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "9.2",
+    "movie_imdb_vote_count": "2.1M",
+    "movie_tags": [
+      "Epic",
+      "Gangster",
+      "Tragedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "movie_name": "The Dark Knight",
+    "movie_release_year": "2008",
+    "movie_duration": "2h 32m",
+    "movie_rating": "UA",
+    "movie_imdb_rating": "9.0",
+    "movie_imdb_vote_count": "3M",
+    "movie_tags": [
+      "Action Epic",
+      "Epic",
+      "Superhero",
+      "Tragedy",
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "movie_name": "The Godfather: Part II",
+    "movie_release_year": "1974",
+    "movie_duration": "3h 22m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "9.0",
+    "movie_imdb_vote_count": "1.4M",
+    "movie_tags": [
+      "Epic",
+      "Gangster",
+      "Tragedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "movie_name": "12 Angry Men",
+    "movie_release_year": "1957",
+    "movie_duration": "1h 36m",
+    "movie_rating": "U",
+    "movie_imdb_rating": "9.0",
+    "movie_imdb_vote_count": "919K",
+    "movie_tags": [
+      "Legal Drama",
+      "Psychological Drama",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "movie_name": "The Lord of the Rings: The Return of the King",
+    "movie_release_year": "2003",
+    "movie_duration": "3h 21m",
+    "movie_rating": "U",
+    "movie_imdb_rating": "9.0",
+    "movie_imdb_vote_count": "2.1M",
+    "movie_tags": [
+      "Action Epic",
+      "Adventure Epic",
+      "Epic",
+      "Fantasy Epic",
+      "Mountain Adventure",
+      "Quest",
+      "Sword & Sorcery",
+      "Tragedy",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "movie_name": "Schindler's List",
+    "movie_release_year": "1993",
+    "movie_duration": "3h 15m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "9.0",
+    "movie_imdb_vote_count": "1.5M",
+    "movie_tags": [
+      "Docudrama",
+      "Epic",
+      "Historical Epic",
+      "Period Drama",
+      "Prison Drama",
+      "Tragedy",
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "movie_name": "Pulp Fiction",
+    "movie_release_year": "1994",
+    "movie_duration": "2h 34m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "8.9",
+    "movie_imdb_vote_count": "2.3M",
+    "movie_tags": [
+      "Dark Comedy",
+      "Drug Crime",
+      "Gangster",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "movie_name": "The Lord of the Rings: The Fellowship of the Ring",
+    "movie_release_year": "2001",
+    "movie_duration": "2h 58m",
+    "movie_rating": "U",
+    "movie_imdb_rating": "8.9",
+    "movie_imdb_vote_count": "2.1M",
+    "movie_tags": [
+      "Action Epic",
+      "Adventure Epic",
+      "Dark Fantasy",
+      "Epic",
+      "Fantasy Epic",
+      "Quest",
+      "Sword & Sorcery",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  {
+    "movie_name": "Il Buono, Il Brutto, Il Cattivo",
+    "movie_release_year": "1966",
+    "movie_duration": "2h 41m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "8.8",
+    "movie_imdb_vote_count": "848K",
+    "movie_tags": [
+      "Adventure Epic",
+      "Dark Comedy",
+      "Desert Adventure",
+      "Epic",
+      "Period Drama",
+      "Quest",
+      "Spaghetti Western",
+      "Western Epic",
+      "Adventure",
+      "Western"
+    ]
+  },
+  {
+    "movie_name": "Forrest Gump",
+    "movie_release_year": "1994",
+    "movie_duration": "2h 22m",
+    "movie_rating": "UA",
+    "movie_imdb_rating": "8.8",
+    "movie_imdb_vote_count": "2.4M",
+    "movie_tags": [
+      "Epic",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "movie_name": "The Lord of the Rings: The Two Towers",
+    "movie_release_year": "2002",
+    "movie_duration": "2h 59m",
+    "movie_rating": "UA",
+    "movie_imdb_rating": "8.8",
+    "movie_imdb_vote_count": "1.9M",
+    "movie_tags": [
+      "Action Epic",
+      "Adventure Epic",
+      "Dark Fantasy",
+      "Epic",
+      "Fantasy Epic",
+      "Quest",
+      "Sword & Sorcery",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  {
+    "movie_name": "Fight Club",
+    "movie_release_year": "1999",
+    "movie_duration": "2h 19m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "8.8",
+    "movie_imdb_vote_count": "2.4M",
+    "movie_tags": [
+      "Psychological Drama",
+      "Psychological Thriller",
+      "Workplace Drama",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "movie_name": "Inception",
+    "movie_release_year": "2010",
+    "movie_duration": "2h 28m",
+    "movie_rating": "UA",
+    "movie_imdb_rating": "8.8",
+    "movie_imdb_vote_count": "2.7M",
+    "movie_tags": [
+      "Action Epic",
+      "Adventure Epic",
+      "Epic",
+      "Psychological Thriller",
+      "Sci-Fi Epic",
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "movie_name": "Star Wars: Episode V - The Empire Strikes Back",
+    "movie_release_year": "1980",
+    "movie_duration": "2h 4m",
+    "movie_rating": "UA",
+    "movie_imdb_rating": "8.7",
+    "movie_imdb_vote_count": "1.4M",
+    "movie_tags": [
+      "Action Epic",
+      "Adventure Epic",
+      "Dark Fantasy",
+      "Epic",
+      "Fantasy Epic",
+      "Globetrotting Adventure",
+      "Quest",
+      "Sci-Fi Epic",
+      "Space Sci-Fi",
+      "Sword & Sorcery"
+    ]
+  },
+  {
+    "movie_name": "The Matrix",
+    "movie_release_year": "1999",
+    "movie_duration": "2h 16m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "8.7",
+    "movie_imdb_vote_count": "2.1M",
+    "movie_tags": [
+      "Action Epic",
+      "Artificial Intelligence",
+      "Cyberpunk",
+      "Dystopian Sci-Fi",
+      "Gun Fu",
+      "Martial Arts",
+      "Sci-Fi Epic",
+      "Action",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie_name": "GoodFellas",
+    "movie_release_year": "1990",
+    "movie_duration": "2h 25m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "8.7",
+    "movie_imdb_vote_count": "1.3M",
+    "movie_tags": [
+      "Docudrama",
+      "Gangster",
+      "True Crime",
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "movie_name": "One Flew Over the Cuckoo's Nest",
+    "movie_release_year": "1975",
+    "movie_duration": "2h 13m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "8.7",
+    "movie_imdb_vote_count": "1.1M",
+    "movie_tags": [
+      "Medical Drama",
+      "Psychological Drama",
+      "Drama"
+    ]
+  },
+  {
+    "movie_name": "Interstellar",
+    "movie_release_year": "2014",
+    "movie_duration": "2h 49m",
+    "movie_rating": "UA",
+    "movie_imdb_rating": "8.7",
+    "movie_imdb_vote_count": "2.3M",
+    "movie_tags": [
+      "Adventure Epic",
+      "Epic",
+      "Quest",
+      "Sci-Fi Epic",
+      "Space Sci-Fi",
+      "Time Travel",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "movie_name": "Se7en",
+    "movie_release_year": "1995",
+    "movie_duration": "2h 7m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "8.6",
+    "movie_imdb_vote_count": "1.9M",
+    "movie_tags": [
+      "Cop Drama",
+      "Hard-boiled Detective",
+      "Legal Drama",
+      "Police Procedural",
+      "Psychological Drama",
+      "Psychological Thriller",
+      "Serial Killer",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "movie_name": "It's a Wonderful Life",
+    "movie_release_year": "1946",
+    "movie_duration": "2h 10m",
+    "movie_rating": "PG",
+    "movie_imdb_rating": "8.6",
+    "movie_imdb_vote_count": "525K",
+    "movie_tags": [
+      "Feel-Good Romance",
+      "Holiday Family",
+      "Holiday Romance",
+      "Psychological Drama",
+      "Supernatural Fantasy",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Holiday",
+      "Romance"
+    ]
+  },
+  {
+    "movie_name": "Shichinin No Samurai",
+    "movie_release_year": "1954",
+    "movie_duration": "3h 27m",
+    "movie_rating": "U",
+    "movie_imdb_rating": "8.6",
+    "movie_imdb_vote_count": "382K",
+    "movie_tags": [
+      "Action Epic",
+      "Epic",
+      "Period Drama",
+      "Samurai",
+      "Action",
+      "Drama"
+    ]
+  },
+  {
+    "movie_name": "The Silence of the Lambs",
+    "movie_release_year": "1991",
+    "movie_duration": "1h 58m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "8.6",
+    "movie_imdb_vote_count": "1.6M",
+    "movie_tags": [
+      "Police Procedural",
+      "Psychological Drama",
+      "Psychological Horror",
+      "Psychological Thriller",
+      "Serial Killer",
+      "Slasher Horror",
+      "Crime",
+      "Drama",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "movie_name": "Saving Private Ryan",
+    "movie_release_year": "1998",
+    "movie_duration": "2h 49m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "8.6",
+    "movie_imdb_vote_count": "1.6M",
+    "movie_tags": [
+      "Epic",
+      "Period Drama",
+      "War Epic",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "movie_name": "City of God",
+    "movie_release_year": "2002",
+    "movie_duration": "2h 10m",
+    "movie_rating": "A",
+    "movie_imdb_rating": "8.6",
+    "movie_imdb_vote_count": "833K",
+    "movie_tags": [
+      "Caper",
+      "Coming-of-Age",
+      "Gangster",
+      "Crime",
+      "Drama"
+    ]
+  }
+]
